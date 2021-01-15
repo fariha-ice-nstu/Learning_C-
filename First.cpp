@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<stdio.h>
 
-using namespace;
+int main(){
 
+    printf("Hello Worlld");
+}
